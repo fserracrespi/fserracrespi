@@ -54,13 +54,13 @@ I build **machine learning and deep learning models** for **biomedical and neuro
 
 ## 🌍 Languages
 
-🇪🇸 Spanish · 🇨🇦 Catalan · 🇬🇧 English
+🇪🇸 Spanish · Catalan · 🇬🇧 English
 
 ---
 
 ## 📫 Let’s connect
 
-* 📧 **Email:** [fsc1264@gmail.com](mailto:fs.crespi@yahoo.com)
+* 📧 **Email:** [(mailto:fs.crespi@yahoo.com)]
 * 💼 **LinkedIn:** linkedin.com/in/francesc-serra-crespí-597982136
 
 ---
