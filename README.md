@@ -61,7 +61,7 @@ I build **machine learning and deep learning models** for **biomedical and neuro
 ## 📫 Let’s connect
 
 * 📧 **Email:** [(fs.crespi@yahoo.com)]
-* 💼 **LinkedIn:** linkedin.com/in/francesc-serra-crespí-597982136
+* 💼 **LinkedIn:** [(linkedin.com/in/francesc-serra-crespí-597982136)]
 
 ---
 
