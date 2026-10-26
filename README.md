@@ -95,8 +95,8 @@ The project included predictive modelling, explainability analysis and the devel
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&theme=transparent" height="160" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&theme=transparent" height="160" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fserracrespi&show_icons=true&hide_border=true&theme=transparent" height="160" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fserracrespi&layout=compact&hide_border=true&theme=transparent" height="160" alt="Top languages"/>
 </p>
 
 ---
