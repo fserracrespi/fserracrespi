@@ -59,6 +59,7 @@ The project included predictive modelling, explainability analysis and the devel
 **Languages**  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+<img src="https://img.shields.io/badge/MATLAB-E16737?style=flat-square" alt="MATLAB"/>
 
 **Machine Learning & Deep Learning**  
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
