@@ -116,7 +116,7 @@ The project included predictive modelling, explainability analysis and the devel
 
 I'm interested in **6-month research internships starting in 2027**, particularly in:
 
-`Biomedical AI` · `Computational Biology` · `AI for Drug Discovery` · `Medical Imaging` · `Machine Learning for Healthcare`
+`AI for Neuroscience` · `Biomedical AI` · `Computational Biology` · `AI for Drug Discovery` · `Medical Imaging` · `Machine Learning for Healthcare`
 
 I'm also interested in opportunities that could potentially continue towards a **PhD**.
 
